@@ -1,16 +1,18 @@
-## Hi there 👋
+## ~/Bio/README.md
+Howdy Bio-reader,
 
-<!--
-**Velocity-50/Velocity-50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Velocity-50, a builder, experimenter and RF enthusiast exploring software, hardware and wireless related things. 
+# I like to:
+- ~Write code
+- ~Homelab
+- ~Explore new/different linux distros
+- ~Design RF-related projects
+---
+<a href="https://wigle.net">
+<img border="0" src="https://wigle.net/bi/go3htCmo5nFr+tuob9JH9w.png">
+</a>
 
-Here are some ideas to get you started:
+---
+>"The desert will teach you more about water than the ocean ever could."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
